@@ -43,8 +43,8 @@ hr {
 hr.light {
   border-color: white;
 }
-h1 {
-text-shadow: 2px 2px #000000;
+.h1 {
+  text-shadow: 2px 2px #000000;
 }
 h1,
 h2,
