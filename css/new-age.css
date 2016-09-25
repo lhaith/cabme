@@ -151,8 +151,7 @@ p {
 }
 header {
   position: relative;
-  width: 100%;
-  min-height: auto;
+  background-size:cover;
   overflow-y: hidden;
   background: url("../img/DeathtoStock_London4.jpg"), #7b4397;
   /* fallback for old browsers */
