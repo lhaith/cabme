@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 .shadow {
-  text-shadow: 4px 2px #000000;
+  text-shadow: 2px 2px 3px rgba(150, 150, 150, 1);
 }
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
