@@ -154,13 +154,13 @@ p {
 }
 header {
   position: relative;
-  background-size:cover;
+  background-size: cover;
   overflow-y: hidden;
-  background: url("../img/DeathtoStock_London4.jpg"), #7b4397;
+  background: url("../img/DeathtoStock_London4.jpg"), #fdcc52;
   /* fallback for old browsers */
-  background: url("../img/DeathtoStock_London4.jpg"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../img/DeathtoStock_London4.jpg"), -webkit-linear-gradient(to left, #fdcc52, #fdcc52);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/DeathtoStock_London4.jpg"), linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../img/DeathtoStock_London4.jpg"), linear-gradient(to left, #fdcc52, #fdcc52);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
