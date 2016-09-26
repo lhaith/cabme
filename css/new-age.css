@@ -153,9 +153,6 @@ p {
   }
 }
 header {
-  position: relative;
-  background-size: cover;
-  overflow-y: hidden;
   background: url("../img/DeathtoStock_London4.jpg"), #fdcc52;
   /* fallback for old browsers */
   background: url("../img/DeathtoStock_London4.jpg"), -webkit-linear-gradient(to left, #fdcc52, #fdcc52);
@@ -163,6 +160,9 @@ header {
   background: url("../img/DeathtoStock_London4.jpg"), linear-gradient(to left, #fdcc52, #fdcc52);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
+  position: relative;
+  background-size: cover;
+  overflow-y: hidden;
 }
 header .header-content {
   text-align: center;
