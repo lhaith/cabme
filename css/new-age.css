@@ -31,7 +31,7 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #fdcc52;
+  color: #d3ae0b;
 }
 a:hover,
 a:focus {
@@ -78,7 +78,7 @@ p {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
-  color: #fdcc52;
+  color: #d3ae0b;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
@@ -101,11 +101,11 @@ p {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #fdcc52;
+  color: #d3ae0b;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #fdcc52 !important;
+  color: #d3ae0b !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
@@ -141,7 +141,7 @@ p {
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: #fdcc52;
+    color: #d3ae0b;
   }
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
@@ -149,15 +149,15 @@ p {
   }
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
-    color: #fdcc52;
+    color: #d3ae0b;
   }
 }
 header {
-  background: url("../img/DeathtoStock_London4.jpg"), #fdcc52;
+  background: url("../img/DeathtoStock_London4.jpg"), #d3ae0b;
   /* fallback for old browsers */
-  background: url("../img/DeathtoStock_London4.jpg"), -webkit-linear-gradient(to left, #fdcc52, #fdcc52);
+  background: url("../img/DeathtoStock_London4.jpg"), -webkit-linear-gradient(to left, #d3ae0b, #d3ae0b);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/DeathtoStock_London4.jpg"), linear-gradient(to left, #fdcc52, #fdcc52);
+  background: url("../img/DeathtoStock_London4.jpg"), linear-gradient(to left, #d3ae0b, #d3ae0b);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
   position: relative;
@@ -398,12 +398,12 @@ footer ul li a.active {
   text-decoration: none;
 }
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: #d3ae0b;
+  background: -webkit-linear-gradient(#d3ae0b, #fdc539);
+  background: linear-gradient(#d3ae0b, #fdc539);
 }
 .text-primary {
-  color: #fdcc52;
+  color: #d3ae0b;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -420,8 +420,8 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #fdcc52;
-  border-color: #fdcc52;
+  background-color: #d3ae0b;
+  border-color: #d3ae0b;
 }
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
